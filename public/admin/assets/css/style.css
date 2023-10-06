@@ -1,0 +1,20 @@
+.col-sm-6.text-end {
+    margin-left: 67px;
+    margin-top: 25px;
+}
+
+svg.side-logo {
+    margin-top: 23px;
+    margin-left: -44px;
+}
+
+div#loader {
+    margin-left: 930px;
+    /* margin-top: 16px; */
+    margin-bottom: -159px;
+    height: 31px;
+}
+
+.pac-container.pac-logo {
+    z-index: 9999;
+}
